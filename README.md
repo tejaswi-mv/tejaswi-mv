@@ -9,17 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on **Automating daily tasks**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MultiCloud skills**
 
 - 👯 I’m looking to collaborate on **various projects**
 
 - 📝 I regularly write articles on [https://codescop.blogspot.com](https://codescop.blogspot.com)
 
-- 💬 Ask me about **c++,ux**
+- 💬 Ask me about **Automation , Kubernetes , Docker , Containerization , Python , c++ **
 
-- 📫 How to reach me **venutejas5@gmail.com**
+- 📫 How to reach me **venutejaswim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
