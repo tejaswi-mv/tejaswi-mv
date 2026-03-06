@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Automating Boring tasks**
 
-- 🌱 I’m currently learning **AI Workflows and Agents **
+- 🌱 I’m currently learning **AI Workflows and Agents**
 
 - 👯 I’m looking to collaborate on **various projects**
 
