@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Automating daily tasks**
+- 🔭 I’m currently working on **Automating Boring tasks**
 
-- 🌱 I’m currently learning **MultiCloud skills**
+- 🌱 I’m currently learning **AI Workflows and Agents **
 
 - 👯 I’m looking to collaborate on **various projects**
 
