@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://codescop.blogspot.com](https://codescop.blogspot.com)
 
-- 💬 Ask me about **Automation , Kubernetes , Docker , Containerization , Python , c++ **
+- 💬 Ask me about **Automation ,Gen AI , LLM , RAG , Python , c++ **
 
 - 📫 How to reach me **venutejaswim@gmail.com**
 
